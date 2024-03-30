@@ -1,0 +1,56 @@
+ body{
+    background-image: url('https://img.freepik.com/free-photo/assortment-cinema-elements-red-background-with-copy-space_23-2148457848.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+ }
+ h1{
+    /* border: solid white; */
+    align-items: center;
+    color: white;
+    /* display: flex; */
+    margin-left: 180px;
+ }
+ .row{
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    background: transparent;
+    border: solid #831431;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 170px;
+    /* padding-left: 300px; */
+    /* margin-bottom: 25px; */
+ }
+#inputField {
+    /* margin-left: 110px; */
+    flex:1;
+    border: none;
+    outline: none;
+    background: transparent;
+    /* font-weight:20px; */
+    vertical-align: middle;
+    color: white;
+    font-size: 15px;
+}
+
+button {
+    justify-content: right;
+    border:none;
+    outline: none;
+    padding: 16px 30px;
+    margin-right: 0;
+    background: #831431;
+    color:white;
+    font-size: 16px;
+    cursor:pointer;
+    border-radius: 16px;
+}
+.paragraph-styling {
+   
+    margin-left: 175px;
+    cursor: pointer;
+    font-size: 20px;
+}
